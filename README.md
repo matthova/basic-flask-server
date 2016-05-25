@@ -9,6 +9,11 @@ sudo apt-get install python-pip
 sudo pip install flask
 ```
 
+- Socketio
+```
+sudo pip install
+```
+
 To start the server
 ```
 python app.py
